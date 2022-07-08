@@ -1,10 +1,15 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/senior-developer1019">
-    <img width="100%" src="./github-header-image.png">
-  </a>
+  <a href="https://github.com/senior-developer1019"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
+
+> Contact Info
+
+Telegram: @seniordev1019
+WhatsApp: +48727848432
+Skype: live:.cid.200adb42294d4162
+Mail: seniordeveloper1019@gmail.com
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 > Programming languages.
