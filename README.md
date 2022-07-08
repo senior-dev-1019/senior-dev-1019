@@ -142,6 +142,14 @@
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=atosinu&style=for-the-badge"/></a>
 </p>
 
+<br />
+
+> GitHub Visitors Count
+
+<p align="center">
+  <img align="center" src="https://profile-counter.glitch.me/{senior-developer1019}/count.svg" /></p> 
+</div>
+
 <p align="center">
     <img alt="snake animation" title="Snake Animation" src="https://github.com/senior-developer1019/senior-developer1019/blob/main/github-contribution-grid-snake.svg" width="100%" />
 </p>
