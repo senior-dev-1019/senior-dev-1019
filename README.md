@@ -6,10 +6,10 @@
 
 > Contact Info
 
-Telegram: @seniordev1019
-WhatsApp: +48727848432
-Skype: live:.cid.200adb42294d4162
-Mail: seniordeveloper1019@gmail.com
+<p>Mail: seniordeveloper1019@gmail.com</p>
+<p>WhatsApp: +48727848432</p>
+<p>Skype: live:.cid.200adb42294d4162</p>
+<p>Telegram: @seniordev1019</p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 > Programming languages.
