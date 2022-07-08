@@ -137,7 +137,7 @@
 </p>
 
 <p align="center">
-    <img alt="snake animation" title="Snake Animation" src="https://github.com/senior-developer1019/senior-developer1019/blob/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="snake animation" title="Snake Animation" src="https://github.com/senior-developer1019/senior-developer1019/blob/main/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 <p align="center">
