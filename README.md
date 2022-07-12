@@ -6,10 +6,13 @@
 
 > Contact Info
 
+<p>Name: Nazar Dobroznai</p>
 <p>Mail: seniordeveloper1019@gmail.com</p>
 <p>WhatsApp: +48727848432</p>
 <p>Skype: live:.cid.200adb42294d4162</p>
 <p>Telegram: @seniordev1019</p>
+<p>Phone: +48727848432</p>
+<p>Address: Barska 31 Warsaw Poland</p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
