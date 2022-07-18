@@ -6,7 +6,6 @@
 
 > Contact Info
 
-<p>Name: Nazar Dobroznai</p>
 <p>Mail: seniordeveloper1019@gmail.com</p>
 <p>Skype: live:.cid.200adb42294d4162</p>
 <p>Telegram: @seniordev1019</p>
