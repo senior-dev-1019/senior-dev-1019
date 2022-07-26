@@ -121,9 +121,9 @@
 
 <br />
 
-> GitHub Activity Graph
+<!-- > GitHub Activity Graph -->
 <!-- https://github.com/senior-dev-1019/github-readme-activity-graph -->
-<a href="https://github.com/senior-dev-1019/senior-dev-1019"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=senior-dev-1019&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<!-- <a href="https://github.com/senior-dev-1019/senior-dev-1019"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=senior-dev-1019&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a> -->
 
 <br />
 
